@@ -24,11 +24,6 @@ import patsy as pa
 import scipy.signal as sps
 import statsmodels.formula.api as smf
 
-# Plot libraries
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-import seaborn as sb
-
 # Utilities libraries
 from sklearn.externals import joblib
 from pprint import pprint
